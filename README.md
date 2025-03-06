@@ -21,4 +21,4 @@ El juego de **Amigo Secreto** es una aplicación web que permite a los usuarios 
 
 1. **Clonar el repositorio:**
    ```sh
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/EduarMoi15/amigo-secreto.git
