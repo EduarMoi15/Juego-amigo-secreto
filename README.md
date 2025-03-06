@@ -17,8 +17,4 @@ El juego de **Amigo Secreto** es una aplicación web que permite a los usuarios 
 - `style.css`: Contiene los estilos CSS para la aplicación.
 - `app.js`: Contiene la lógica JavaScript para manejar la funcionalidad de la aplicación.
 
-## Uso
 
-1. **Clonar el repositorio:**
-   ```sh
-   git clone https://github.com/EduarMoi15/amigo-secreto.git
